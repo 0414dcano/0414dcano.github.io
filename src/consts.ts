@@ -9,26 +9,26 @@ export const SITE: Site = {
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+  TITLE: "Trabajo",
+  DESCRIPTION: "Sitios en los que he trabajado",
 }
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  TITLE: "Sobre Mi",
+  DESCRIPTION: "Aquí puedes encontrar más información sobre mí",
 }
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  TITLE: "Proyectos",
+  DESCRIPTION: "Proyectos en los que he trabajado",
 }
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  TITLE: "Buscar",
+  DESCRIPTION: "Busca lo que quieras mediante keyword",
 }
 
 // Links
@@ -38,15 +38,15 @@ export const LINKS: Links = [
     HREF: "/", 
   },
   { 
-    TEXT: "Work", 
+    TEXT: "Trabajos", 
     HREF: "/work", 
   },
   { 
-    TEXT: "Blog", 
+    TEXT: "Sobre Mi", 
     HREF: "/blog", 
   },
   { 
-    TEXT: "Projects", 
+    TEXT: "Proyectos", 
     HREF: "/projects", 
   },
 ]
@@ -56,10 +56,10 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    TEXT: "dcanofernando@gmail.com",
+    HREF: "mailto:dcanofernando@gmail.com",
   },
-  { 
+  /*{ 
     NAME: "Github",
     ICON: "github",
     TEXT: "markhorn-dev",
@@ -68,7 +68,7 @@ export const SOCIALS: Socials = [
   { 
     NAME: "LinkedIn",
     ICON: "linkedin",
-    TEXT: "markhorn-dev",
+    TEXT: "Danie",
     HREF: "https://www.linkedin.com/in/markhorn-dev/",
   },
   { 
@@ -76,6 +76,6 @@ export const SOCIALS: Socials = [
     ICON: "twitter-x",
     TEXT: "markhorn_dev",
     HREF: "https://twitter.com/markhorn_dev",
-  },
+  },*/
 ]
 
